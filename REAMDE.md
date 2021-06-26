@@ -17,9 +17,9 @@ Las Tecnologias que use para este desarrollo:
 
 
 ```sh
-> Para poder saber armar un archivo README.md 
-> podes ir a la siguiente web para ver como
-> se realizan.
+Para poder saber armar un archivo README.md 
+podes ir a la siguiente web para ver como
+se realizan.
 
 [Dillinger](https://dillinger.io/)
 ```
